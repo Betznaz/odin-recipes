@@ -1,2 +1,4 @@
 # odin-recipes
-Simple html recipe site
+A simple html site to host some tasty recipes
+
+
